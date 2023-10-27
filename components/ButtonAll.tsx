@@ -5,7 +5,7 @@ type ButtonProps = {
     type: 'button' | 'submit';
     title: string;
     icon?: string;
-    variant: 'btn_dark_green' | 'btn_white';  // Updated this line
+    variant: 'btn_dark_green' | 'btn_white';  
     full?: boolean;
 }
 
